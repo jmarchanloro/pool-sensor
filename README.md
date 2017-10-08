@@ -8,8 +8,7 @@ Directories struct:
 
 How to compile and execute:
 >make
->./exec/pool-sensor
-
+>./exec/PoolSensor
 
 The system fulfill the following specifications:
 
